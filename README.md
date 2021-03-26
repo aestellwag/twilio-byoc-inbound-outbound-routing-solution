@@ -1,4 +1,4 @@
-# Twilio BYOC Trunk - Sample Solution for Inbound and Outbound Dialing (Alpha release - please test within your environment)
+# Twilio BYOC Trunk - Sample Solution for Inbound and Outbound Dialing (Alpha version)
 
 Twilio supports the ability to leverage their existing carrier replationship by creating a BYOC (Bring Your Own Carrier) trunk.  Requirements can be found here:
 https://www.twilio.com/docs/voice/bring-your-own-carrier-byoc
